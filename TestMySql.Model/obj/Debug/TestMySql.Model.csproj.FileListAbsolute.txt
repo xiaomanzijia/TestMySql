@@ -1,0 +1,14 @@
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\TestMySql.Model.dll
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\TestMySql.Model.pdb
+D:\licheng\MVC\TestMySql\TestMySql.Model\obj\Debug\TestMySql.Model.dll
+D:\licheng\MVC\TestMySql\TestMySql.Model\obj\Debug\TestMySql.Model.pdb
+D:\licheng\MVC\TestMySql\TestMySql.Model\obj\Debug\TestMySql.Model.csprojResolveAssemblyReference.cache
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\TestMySql.EF.dll
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\EntityFramework.dll
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\TestMySql.EF.pdb
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\EntityFramework.xml
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\TestMySql.Model.dll.config
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\licheng\MVC\TestMySql\TestMySql.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll

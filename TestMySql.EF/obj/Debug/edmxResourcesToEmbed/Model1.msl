@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="testModelStoreContainer" CdmEntityContainer="testEntities">
+    <EntitySetMapping Name="houserent">
+      <EntityTypeMapping TypeName="testModel.houserent">
+        <MappingFragment StoreEntitySet="houserent">
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="whole" ColumnName="whole" />
+          <ScalarProperty Name="rent" ColumnName="rent" />
+          <ScalarProperty Name="area" ColumnName="area" />
+          <ScalarProperty Name="contact" ColumnName="contact" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ordermeal">
+      <EntityTypeMapping TypeName="testModel.ordermeal">
+        <MappingFragment StoreEntitySet="ordermeal">
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="mealcount" ColumnName="mealcount" />
+          <ScalarProperty Name="orderlist" ColumnName="orderlist" />
+          <ScalarProperty Name="ordertime" ColumnName="ordertime" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="student">
+      <EntityTypeMapping TypeName="testModel.student">
+        <MappingFragment StoreEntitySet="student">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="sex" ColumnName="sex" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="teacher" ColumnName="teacher" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

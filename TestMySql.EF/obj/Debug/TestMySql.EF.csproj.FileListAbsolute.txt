@@ -1,0 +1,14 @@
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\TestMySql.EF.dll.config
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\TestMySql.EF.dll
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\TestMySql.EF.pdb
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\EntityFramework.dll
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\EntityFramework.xml
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\licheng\MVC\TestMySql\TestMySql.EF\obj\Debug\TestMySql.EF.dll
+D:\licheng\MVC\TestMySql\TestMySql.EF\obj\Debug\TestMySql.EF.pdb
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\MySql.Data.dll
+D:\licheng\MVC\TestMySql\TestMySql.EF\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\licheng\MVC\TestMySql\TestMySql.EF\obj\Debug\TestMySql.EF.csprojResolveAssemblyReference.cache

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="testModel.Store" Alias="Self" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.6" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="testModelStoreContainer">
+    <EntitySet Name="houserent" EntityType="testModel.Store.houserent" store:Type="Tables" Schema="test" />
+    <EntitySet Name="ordermeal" EntityType="testModel.Store.ordermeal" store:Type="Tables" Schema="test" />
+    <EntitySet Name="student" EntityType="testModel.Store.student" store:Type="Tables" Schema="test" />
+  </EntityContainer>
+  <EntityType Name="houserent">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="price" Type="varchar" MaxLength="45" />
+    <Property Name="whole" Type="varchar" MaxLength="45" />
+    <Property Name="rent" Type="varchar" MaxLength="45" />
+    <Property Name="area" Type="varchar" MaxLength="45" />
+    <Property Name="contact" Type="varchar" MaxLength="45" />
+    <Property Name="phone" Type="varchar" MaxLength="45" />
+    <Property Name="description" Type="varchar" MaxLength="100" />
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="ordermeal">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="username" Type="varchar" MaxLength="50" />
+    <Property Name="phone" Type="varchar" MaxLength="50" />
+    <Property Name="mealcount" Type="varchar" MaxLength="50" />
+    <Property Name="orderlist" Type="varchar" MaxLength="100" />
+    <Property Name="ordertime" Type="varchar" MaxLength="45" />
+    <Property Name="id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="student">
+    <Key>
+      <PropertyRef Name="name" />
+    </Key>
+    <Property Name="name" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="sex" Type="varchar" MaxLength="2" />
+    <Property Name="id" Type="int" />
+    <Property Name="age" Type="int" />
+    <Property Name="teacher" Type="text" />
+  </EntityType>
+</Schema>
